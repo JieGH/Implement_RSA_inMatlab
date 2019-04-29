@@ -39,8 +39,10 @@ Private key is: 323 133
 ## Requirements and notice for running this code
 This code only able to process greyscal images
 This code requires:
+
 1: vpi package Variable Precision Integer Arithmetic by John D'Errico
 https://uk.mathworks.com/matlabcentral/fileexchange/22725-variable-precision-integer-arithmetic
+
 2: Image processing toolbox
 
 Notice: 
