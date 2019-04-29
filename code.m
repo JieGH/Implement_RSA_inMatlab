@@ -17,7 +17,7 @@ fprintf ('Start of create the public key \n')
 fprintf ('Example prime number? 17 19 23 29 43 53 79 89 103 127 137 179 199 \n')
 fprintf ('--p q should be different \n')
 fprintf ('--If p q larger than these example, the program will be very slow\n')
-fprintf ('--Unless you have a powerful PC \n')
+fprintf ('--Unless you have a powerful Computer (iPad is not included) \n')
 
 % give me a large positive prime numbers P
 p=input('Give me a large positive prime numbers p: ');
