@@ -26,6 +26,7 @@ The d calculated is: 133
 
 Private key is: 323 133 
 
+Of course you can choose your own parameters.
 
 ## The results of encryption and decryption is stated below.
 
