@@ -46,3 +46,4 @@ https://uk.mathworks.com/matlabcentral/fileexchange/22725-variable-precision-int
 Notice: 
 1. The running time may be at least 3 minutes, the parameters choosen above may result 7 minutes running time. 
 2. This program is unable to process color pictures but grey level pictures only.
+3. The sauggested parameters should smaller than the example given above, otherwise the encryptted picture may be pitch black. 
